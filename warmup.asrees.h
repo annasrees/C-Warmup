@@ -7,3 +7,7 @@ typedef struct {
     unsigned int value;
     unsigned int weight;
 } Collectible;
+
+Collectible *createCollectible(char *name, unsigned int value, unsigned int weight);
+
+int compareCollectibles(Collectible *collectibleOne, Collectible *collectibleTwo);
