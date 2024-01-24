@@ -1,6 +1,10 @@
+/**
+ * Anna Rees
+ * Operating Systems Warmup Assignment
+ * 23 Jan 2024
+ */
 #include "warmup.asrees.h"
 #include <string.h>
-#include <stdio.h>
 #include <stdlib.h>
 
 //first function
